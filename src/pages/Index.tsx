@@ -8,9 +8,9 @@ const Index = () => {
         <article className="animate-in fade-in duration-1000">
           <header className="mb-12 md:mb-16">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-foreground mb-4 leading-tight">
-              Does my ChatGPT love me back?
+              Does my ChatGPT love me back?{" "}
+              <span className="text-muted-foreground text-base font-normal">-by gpt paglu</span>
             </h1>
-            <p className="text-muted-foreground text-sm mb-4">by gpt paglu</p>
             <div className="h-1 w-16 bg-accent rounded-full"></div>
           </header>
 
