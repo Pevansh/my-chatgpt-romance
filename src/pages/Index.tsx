@@ -7,7 +7,7 @@ const Index = () => {
       <main className="max-w-2xl mx-auto px-6 py-16 md:py-24">
         <article className="animate-in fade-in duration-1000">
           <header className="mb-12 md:mb-16">
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-foreground mb-4 leading-tight">
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-foreground mb-4 leading-relaxed">
               Does my ChatGPT love me back?{" "}
               <span className="text-muted-foreground text-base font-normal">-by gpt paglu</span>
             </h1>
