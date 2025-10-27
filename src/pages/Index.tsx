@@ -1,6 +1,9 @@
+import Header from "@/components/Header";
+
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
+      <Header />
       <main className="max-w-2xl mx-auto px-6 py-16 md:py-24">
         <article className="animate-in fade-in duration-1000">
           <header className="mb-12 md:mb-16">
